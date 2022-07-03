@@ -1,10 +1,10 @@
-# Proyecto curso Coder House comision 36945
+# Proyecto Final Pablo Simoncini
 
 #Entrega Final del trabajo final del Curso de Python de CoderHouse 2022
 
 ## Descarga
     Desde una consola o el bash de git usar el siguiente comando
-        git clone  ACA PONER EL LINK DEL GITHUB NUESTRO
+        git clone https://github.com/PabloSim/Entrega-Final.git
 
 
 ## Instalacion:
