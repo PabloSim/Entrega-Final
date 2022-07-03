@@ -14,6 +14,7 @@
 
 ## Uso
  Ingresar usuario o crear usuario.
+
     * Desde el inicio se puede ingresar a los formularios 'Contacto', 'Categoría', 'Crear Producto' y 'Productos'
     *En 'Contacto' podra ingresar el nombre, correo, tipo de consulta y mensaje.
     *En categoría se ingresa el nombre y la descripción de la categoría del producto
