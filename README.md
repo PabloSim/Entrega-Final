@@ -1,6 +1,8 @@
 # Proyecto Final Pablo Simoncini
 
 #Entrega Final del trabajo final del Curso de Python de CoderHouse 2022
+usuario: blopa
+contraseña: 123123
 
 ## Descarga
     Desde una consola o el bash de git usar el siguiente comando
